@@ -11,5 +11,5 @@ This repository contains a machine learning pipeline developed for diagnosing lu
 Source : https://www.kaggle.com/datasets/noepinefrin/tcga-lusc-lung-cell-squamous-carcinoma-gene-exp  
 Type: Gene expression data (FPKM)  
 
-🌐 **Deployed page:** https://lung-cancer-gene-expression-analysis.streamlit.app/
+🌐 **Deployed page:** https://lung-cancer-gene-expression-analysis.streamlit.app/  
 Use sample inputs from the ./test_input_file/ for testing.
